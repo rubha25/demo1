@@ -1,2 +1,3 @@
 Changes from remote repository
 Changes from local repository
+Again changes from local repo
